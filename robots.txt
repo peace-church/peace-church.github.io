@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://peace-church.github.io/sitemap.xml
